@@ -20,10 +20,15 @@ The end goal here is to have a plotter that can run on an Arduino, with support 
 Work in progress
 
 2x Timing belts
+
 8x Pulleys
+
 Lots of m3 machine screws
+
 Lots of 3mm wood screws (or whatever material you're attaching to)
+
 A lot of filament (exact weight to come)
+
 A piece of wood or something for the mount in the centre
 # Financial Contributions
 GGracy is named after Miss Major Griffin-Gracy, stonewall veteran, LGBT elder and transgender rights advocate living in the United States. She is currently fundraising for retirement from a lifetime of organising and resistance; please direct all financial contributions to https://fundly.com/missmajor At such a time that she reaches her funding goals and is able to retire, other LGBT causes will be suggested. Homophobes and transphobes are not permitted to use this project as far as the GPL permits this restriction.
